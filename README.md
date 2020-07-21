@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification
+# Final project for INFO7390(Advances Data Science and Architecture)
 This project shows how to use CNN to classify scanned film mammography images.
 
 DataSourse:https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM
